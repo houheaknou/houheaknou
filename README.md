@@ -1,19 +1,38 @@
-# Hi there! 👋 I'm Heaknou
+# Hey there, I'm Heaknou 👋
 
-🚀 **About Me:**  
-- 🔭 I’m currently working on **Python HRMS**  
-- 🌱 I’m learning **Next.js, Tailwind CSS, and UX/UI design**  
-- 💼 I'm interested in **Django, Odoo, and cybersecurity**  
-- 📫 How to reach me: **houheaknou16@gmail.com**    
+Welcome to my GitHub! I’m a passionate backend developer from Cambodia, working towards becoming a full-stack developer. I love coding, solving problems, and learning new technologies.
 
-💻 **Tech Stack:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)  
-![Odoo](https://img.shields.io/badge/-Odoo-512C82?style=flat&logo=odoo&logoColor=white)  
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
+## 🚀 Technologies & Tools
 
+- **Backend Development:** Django, Odoo, Node.js
+- **Databases:** PostgreSQL
+- **Frontend:** React.js, Next.js, Tailwind CSS
+- **API Development:** REST API
+- **Other:** Git, Docker, Kubernetes
 
-🔗 **Connect with Me:**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](your-linkedin-url)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](your-twitter-url)  
+## 🌱 Currently Learning
+
+- Full-stack development
+- UX/UI design
+
+## 💻 Projects
+
+Here are some of my recent projects:
+
+- [HRMS System with Django](#) - A Human Resource Management System built with Django.
+- [E-commerce Platform](#) - A custom e-commerce solution with Django and PostgreSQL.
+- [Next.js Profile Website](#) - A static personal profile website with Next.js and Tailwind CSS.
+
+## 📈 GitHub Stats
+
+![Heaknou's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heaknou&show_icons=true&hide_title=true&count_private=true&theme=radical)
+
+## 📬 How to Reach Me
+
+- Email: heaknou@example.com
+- LinkedIn: [Heaknou](https://www.linkedin.com/in/heaknou)
+- Twitter: [@heaknou_dev](https://twitter.com/heaknou_dev)
+
+---
+
+Thanks for stopping by! 😄 Let's connect and collaborate. 🚀
