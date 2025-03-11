@@ -4,16 +4,18 @@ Welcome to my GitHub! I’m a passionate backend developer from Cambodia, workin
 
 ## 🚀 Technologies & Tools
 
-- **Backend Development:** Django, Odoo, Node.js
+- **Backend Development:** Django 🐍, Odoo, Node.js
+- **Frontend:** React.js ⚛️, Next.js 🚀, Angular 🅰️
 - **Databases:** PostgreSQL
-- **Frontend:** React.js, Next.js, Tailwind CSS
 - **API Development:** REST API
 - **Other:** Git, Docker, Kubernetes
 
 ## 🌱 Currently Learning
 
-- Full-stack development
-- UX/UI design
+- **Django** 🐍
+- **Next.js** 🚀
+- **Angular** 🅰️
+- **Japanese Language** 🇯🇵
 
 ## 💻 Projects
 
